@@ -36,6 +36,8 @@ apis:
       embedding and sharing interactive presentations, newsletters, and
       reports across the organization.
 common:
+  - type: GitHubOrganization
+    url: https://github.com/microsoft
   - type: Portal
     url: https://sway.cloud.microsoft/
   - type: Website
