@@ -36,6 +36,8 @@ apis:
       embedding and sharing interactive presentations, newsletters, and
       reports across the organization.
 common:
+  - type: DomainSecurity
+    url: security/microsoft-sway-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/microsoft
   - type: Portal
