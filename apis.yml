@@ -66,6 +66,12 @@ apis:
       embedding and sharing interactive presentations, newsletters, and
       reports across the organization.
 common:
+  - type: Plans
+    url: plans/microsoft-sway-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/microsoft-sway-rate-limits.yml
+  - type: FinOps
+    url: finops/microsoft-sway-finops.yml
   - type: DomainSecurity
     url: security/microsoft-sway-domain-security.yml
   - type: GitHubOrganization
