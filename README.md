@@ -1,4 +1,4 @@
-# Microsoft Sway (microsoft-sway)
+# Microsoft Sway
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,43 +64,105 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Microsoft Sway is a presentation and storytelling application for creating interactive, web-based content within Microsoft 365.
+Microsoft Sway is a presentation and storytelling application that enables creating interactive, web-based content. It integrates with Microsoft 365 for sharing and embedding interactive presentations, newsletters, and reports across an organization.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/microsoft-sway/refs/heads/main/apis.yml)
+**Areas:** Content Creation · Microsoft · Microsoft 365 · Presentations · Storytelling
 
-## Tags:
+## Microsoft Sway on APIs.io
 
- - Presentations, Content Creation, Storytelling, Microsoft 365
+Everything profiled for Microsoft Sway is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/microsoft-sway/](https://apis.io/providers/microsoft-sway/)** — or go straight to one of the APIs or properties below.
 
-## Timestamps
+### APIs (1)
 
-- **Created:** 2026-03-13
-- **Modified:** 2026-04-28
+- [Microsoft Sway API](https://apis.io/apis/microsoft-sway/sway-api/) — Microsoft Sway is a presentation and storytelling application that enables creating interactive, web-based content. While Sway has limited direct API…
 
-## APIs
+### Published properties
 
-### Microsoft Sway API
-Microsoft Sway enables creating interactive, web-based presentations, newsletters, and reports.
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-**Human URL:** [https://support.microsoft.com/en-us/office/getting-started-with-sway-2076c468-63f4-4a89-ae5f-424796714a8a](https://support.microsoft.com/en-us/office/getting-started-with-sway-2076c468-63f4-4a89-ae5f-424796714a8a)
+#### Security (1)
 
-#### Tags:
+Authentication, trust centre, and vulnerability disclosure.
 
- - Presentations, Content Creation, Storytelling
+- [Microsoft Sway Domain Security](https://apis.io/security/microsoft-sway/microsoft-sway-domain-security/)
 
-#### Properties
+#### Plans and pricing (1)
 
-- [Documentation](https://support.microsoft.com/en-us/office/getting-started-with-sway-2076c468-63f4-4a89-ae5f-424796714a8a)
+Published plans, tiers and prices.
 
-## Common Properties
+- [Microsoft Sway Plans Pricing](https://apis.io/plans/microsoft-sway/microsoft-sway-plans-pricing/)
 
-- [Portal](https://sway.cloud.microsoft/)
-- [Terms of Service](https://www.microsoft.com/en-us/legal/terms-of-use)
-- [Privacy Policy](https://privacy.microsoft.com/en-us/privacystatement)
+#### Rate limits (1)
+
+Published request limits.
+
+- [Microsoft Sway Rate Limits](https://apis.io/rate-limits/microsoft-sway/microsoft-sway-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Microsoft Sway Finops](https://apis.io/finops/microsoft-sway/microsoft-sway-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.microsoft.com/en-us/microsoft-365/sway/flow)
 - [Support](https://support.microsoft.com/)
+- [Terms of service](https://www.microsoft.com/en-us/legal/terms-of-use)
+- [Privacy policy](https://privacy.microsoft.com/en-us/privacystatement)
+- [GitHub](https://github.com/microsoft)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 18.1** — emerging · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 64.3 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 23.8 |
+| Access clarity | 28.9 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/microsoft-sway/](https://apis.io/providers/microsoft-sway/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Microsoft Sway: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/microsoft-sway/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
